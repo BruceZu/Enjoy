@@ -7,7 +7,6 @@
     + Private Chat
     + Public channel chat(IRC)
   * News/Topic chat
-3. Public bulletin (Rent | Job searching | book)
+3. Public bulletin (Rent, Job searching, book, Art, Chinese Martial Arts, Traditional Chinese medicine)
 
- 
 ##Support: Mobile, Web
