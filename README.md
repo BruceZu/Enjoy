@@ -1,7 +1,11 @@
 # Enjoy
  
 ##Features
-1. Personal page (Logo, calendar, blog, piece code, notes)
+1. Personal page
+    * Logo, 
+    * todo and priority, relation, calendar
+    * blog, piece code, 
+    * notes
 2. Chat
   * Temp Chat
     + Private Chat
